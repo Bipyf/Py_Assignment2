@@ -1,0 +1,4 @@
+Python==3.9.7
+pip==21.2.4
+BeautifulSooup4==4.10.0
+requests==2.26.0
